@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-container {
+    background-color: #2d3a8c;
+    font-family: "Roboto";
+}
+
+.header-container {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.name-heading {
+    font-size: 20px;
+}
+
+.main-container {
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.bottom-container {
+    background-color: #ffffff;
+}
+
+.bookmark-heading {
+    color: #2A2A2C;
+    font-size: 22px;
+}
+
+.site-container {
+    background-color: #f5f7fa;
+    border-radius: 20px;
+}
+
+.label-custom {
+    font-size: 12px;
+    font-weight: 700;
+    color: #606060;
+}
+
+.error-msg {
+    color: #dc3545;
+}
+
+.custom-list {
+    /* list-style-type: none; */
+    list-style: none;
+}
+
+.list-custom {
+    font-size: 16px;
+    color: #323f4b;
+    font-weight: 800;
+}
+/*.customize-name {
+    font-size: 24px;
+}
+
+.main-heading {}
+
+.bookmark-heading {
+    font-size: 24px;
+    border: solid;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 30px;
+} */
